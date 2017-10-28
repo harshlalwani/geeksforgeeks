@@ -5,7 +5,7 @@ in a sorted and pivoted array*/
 
 class Main
 {
-		
+	 	
 	/* Searches an element key in a 
 	pivoted sorted array arrp[]
 	of size n */
