@@ -2,7 +2,7 @@ class RotateArray
 {
 	/*Function to left rotate arr[] of siz n by d*/
 	void leftRotate(int arr[], int d, int n) 
-	{
+	{ 
 		int i, j, k, temp;
 		for (i = 0; i < gcd(d, n); i++) 
 		{
